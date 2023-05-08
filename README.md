@@ -1,13 +1,7 @@
 <h1 align="center">Hi! This is Smit Patel</h1>
 <h3 align="center">Interests: Data Science, Software Engineering, Machine Learning</h3>
 
-- Know more about my work on my website: **https://www.patelsmitn.com/**
-
-- Google Scholar: [https://scholar.google.com/citations?user=eIOu0YIAAAAJ&hl=en](https://scholar.google.com/citations?user=eIOu0YIAAAAJ&hl=en)
-
-- Looking forward to connect with you on LinkedIn: **https://www.linkedin.com/in/smit-patel-n/**
-
-- Resume: **https://www.patelsmitn.com/_files/ugd/57b163_9adf96e5027f4d3f8e8824407a27dee8.pdf**
+- - Email [spate314@uottawa.ca](spate314@uottawa.ca)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
