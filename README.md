@@ -5,9 +5,9 @@
 
 - 🔭 I'm currently looking for Onsite/Remote Full-time positions in Data Science, Machine Learning & Software Engineering domains.
 
-- 📝 A Full time master's student at the University of Ottawa (Sep'22-Apr'24).
+- 📝 A Full-time master's student at the University of Ottawa (Sep'22-Apr'24).
 
-- 🌱 Currently working at the National Research Council Canada (NRC) as an AI Research Assistant.
+- 🌱 Currently working at Nokia, Canada as an IT Developer (AI, Cloud & Automation).
 
 - ⚡ I have a solid background in Python, Data Engineering, Artificial Intelligence, and Software Development.
 
@@ -15,7 +15,7 @@
 
 - 💬 Email:  [spate314@uottawa.ca](spate314@uottawa.ca)
 
-- 📄 I like to explore about FinTech Law and Financial Markets.
+- 📄 I like to explore FinTech Law and Financial Markets.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
