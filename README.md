@@ -3,7 +3,7 @@
 <h3 align="center">Interests: Data Science, Software Engineering, Machine Learning</h3>
 </br>
 
-- 🔭 I'm currently looking for Onsite/Remote Fall internship positions in domains related to Data Science & Software Engineering.
+- 🔭 I'm currently looking for Onsite/Remote Full-time positions in Data Science, Machine Learning & Software Engineering domains.
 
 - 📝 A Full time master's student at the University of Ottawa (Sep'22-Apr'24).
 
