@@ -5,9 +5,9 @@
 
 - 🔭 I'm currently looking for Onsite/Remote Full-time positions in Data Science, Machine Learning & Software Engineering domains.
 
-- 📝 A Full-time master's student at the University of Ottawa (Sep'22-Apr'24).
+- 📝 Master's in Computer Engineering (Conc. Applied AI) from the University of Ottawa (Apr'24).
 
-- 🌱 Currently working at Nokia, Canada as an IT Developer (AI, Cloud & Automation).
+- 🌱 Worked at Nokia, Canada as an AI, Cloud & Automation Engineer, and National Research Council Canada (NRC) as an AI & Data Engineer.
 
 - ⚡ I have a solid background in Python, Data Engineering, Artificial Intelligence, and Software Development.
 
