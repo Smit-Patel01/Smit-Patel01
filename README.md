@@ -7,8 +7,8 @@
 
 - 📝 Master's in Computer Engineering (Conc. Applied AI) from the University of Ottawa (Apr'24).
 
-- 🌱 Worked at,
-      -  Nokia, Canada as an AI, Cloud & Automation Engineer
+- 🌱 Worked at,</br>
+      -  Nokia, Canada as an AI, Cloud & Automation Engineer</br>
       -  National Research Council Canada (NRC) as an AI & Data Engineer.
 
 - ⚡ I have a solid background in Python, Data Engineering, Artificial Intelligence, and Software Development.
